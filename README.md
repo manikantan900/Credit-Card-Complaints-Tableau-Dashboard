@@ -1,19 +1,19 @@
-💳 Credit Card Complaints Dashboard | Tableau Project
-🌐 Live Interactive Dashboard
+## 💳 Credit Card Complaints Dashboard | Tableau Project
 
+## 🌐 Live Interactive Dashboard
 🔎 Explore Here:
 👉 https://public.tableau.com/app/profile/manikantan.p/viz/CreditCardComplaintsDashboard_17694433135230/CREDITCARDCOMPLAINTSDASHBOARD
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Credit Card Complaints Dashboard is an interactive Tableau project built to analyze consumer complaint data within the credit card industry.
 
 This dashboard provides insights into complaint trends, issue categories, company response efficiency, regional complaint distribution, and customer submission channels. It enables data-driven decision-making by highlighting operational performance and customer pain points.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 <p align="center"> <img src="screenshots/CreditCard_Complaints_Overview.png" alt="Credit Card Complaints Dashboard" width="100%"> </p>
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 Monitor total complaint volume and trend patterns
 
@@ -25,13 +25,13 @@ Analyze geographic complaint distribution
 
 Understand preferred customer complaint channels
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 Tableau – Data visualization & dashboard development
 
 Microsoft Excel – Data preprocessing & cleaning
 
-📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 Total Complaints: 86,893
 
@@ -45,7 +45,7 @@ In Progress Cases: 329
 
 In Progress Rate: 0.38%
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 🔹 Complaint Trend Analysis
 
 Weekly trend from 2016–2021
@@ -106,7 +106,7 @@ Company
 
 State
 
-💡 Business Insights
+## 💡 Business Insights
 
 Billing disputes represent the highest complaint category, indicating billing transparency concerns.
 
@@ -118,15 +118,17 @@ Certain states show higher complaint density, suggesting regional service gaps.
 
 Monetary relief cases indicate measurable financial impact on consumers.
 
-📂 Repository Structure
+## 📂 Repository Structure
+```
 Credit-Card-Complaints-Tableau-Dashboard/
 │
 ├── data/                  # Excel dataset
 ├── dashboards/            # Tableau workbook (.twbx)
 ├── screenshots/           # Dashboard image
 └── README.md
+```
 
-🚀 How to Use
+## 🚀 How to Use
 
 Download the Tableau workbook file (.twbx) from the dashboards folder.
 
@@ -134,7 +136,7 @@ Open using Tableau Desktop or Tableau Public.
 
 Use filters to explore complaints by year, company, and state.
 
-👤 Author
+## 👤 Author
 
 Manikantan P
 📊 Data Analyst | SQL | Tableau | Power BI
